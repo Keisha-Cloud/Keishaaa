@@ -1,0 +1,6 @@
+{
+  "name": "Pusat Ilmu",
+  "description": "Platform pusat referensi akademis tepercaya untuk seluruh jenjang pendidikan dengan integrasi analisis kurikulum dan konten pembelajaran presisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
